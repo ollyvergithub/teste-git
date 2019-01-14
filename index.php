@@ -18,6 +18,11 @@
     <!--Ollyver--><!--Ollyver--><!--Ollyver-->
     <!--Ollyver--><!--Ollyver--><!--Ollyver-->
 
+<<<<<<< HEAD
+=======
+    <!--Estou na Branch Fatorial Recursivo-->
+
+>>>>>>> fatorial_recursivo
 	<h1>Hello, world!</h1>
 
 	<div class="container">
